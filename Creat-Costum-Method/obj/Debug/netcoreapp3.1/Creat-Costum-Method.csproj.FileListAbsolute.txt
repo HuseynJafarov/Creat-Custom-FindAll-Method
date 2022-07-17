@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\C#\CodeHomeWork1\Creat-Costum-Method\Creat-Costum-Method\bin\Debug\netcoreapp3.1\Creat-Costum-Method.exe
+C:\Users\HP\Desktop\C#\CodeHomeWork1\Creat-Costum-Method\Creat-Costum-Method\bin\Debug\netcoreapp3.1\Creat-Costum-Method.deps.json
+C:\Users\HP\Desktop\C#\CodeHomeWork1\Creat-Costum-Method\Creat-Costum-Method\bin\Debug\netcoreapp3.1\Creat-Costum-Method.runtimeconfig.json
+C:\Users\HP\Desktop\C#\CodeHomeWork1\Creat-Costum-Method\Creat-Costum-Method\bin\Debug\netcoreapp3.1\Creat-Costum-Method.runtimeconfig.dev.json
+C:\Users\HP\Desktop\C#\CodeHomeWork1\Creat-Costum-Method\Creat-Costum-Method\bin\Debug\netcoreapp3.1\Creat-Costum-Method.dll
+C:\Users\HP\Desktop\C#\CodeHomeWork1\Creat-Costum-Method\Creat-Costum-Method\bin\Debug\netcoreapp3.1\Creat-Costum-Method.pdb
+C:\Users\HP\Desktop\C#\CodeHomeWork1\Creat-Costum-Method\Creat-Costum-Method\obj\Debug\netcoreapp3.1\Creat-Costum-Method.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\C#\CodeHomeWork1\Creat-Costum-Method\Creat-Costum-Method\obj\Debug\netcoreapp3.1\Creat-Costum-Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C#\CodeHomeWork1\Creat-Costum-Method\Creat-Costum-Method\obj\Debug\netcoreapp3.1\Creat-Costum-Method.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C#\CodeHomeWork1\Creat-Costum-Method\Creat-Costum-Method\obj\Debug\netcoreapp3.1\Creat-Costum-Method.AssemblyInfo.cs
+C:\Users\HP\Desktop\C#\CodeHomeWork1\Creat-Costum-Method\Creat-Costum-Method\obj\Debug\netcoreapp3.1\Creat-Costum-Method.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C#\CodeHomeWork1\Creat-Costum-Method\Creat-Costum-Method\obj\Debug\netcoreapp3.1\Creat-Costum-Method.dll
+C:\Users\HP\Desktop\C#\CodeHomeWork1\Creat-Costum-Method\Creat-Costum-Method\obj\Debug\netcoreapp3.1\Creat-Costum-Method.pdb
+C:\Users\HP\Desktop\C#\CodeHomeWork1\Creat-Costum-Method\Creat-Costum-Method\obj\Debug\netcoreapp3.1\Creat-Costum-Method.genruntimeconfig.cache
